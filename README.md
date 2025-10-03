@@ -2,7 +2,7 @@
 
 # COMMAND (64-bit SUPPORT JUST)
 ```
-*Version : e12*
+*Version : e.12*
 rm -rf Elton
 git clone https://github.com/ELTON-787/Elton
 cd Elton
